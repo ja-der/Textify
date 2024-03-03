@@ -1,7 +1,5 @@
 # **uOttahack: Journey into Machine Learning Models - Learning from Challenges and Pivots**
 
-### The models (even my failed one) are included 
-
 🌟 **Project Overview:**
 For this hackathon, indecisiveness got the better of me as I changed ideas many many times. I decided with less than 16 hours left to create my own machine learning model by myself. The goal was to develop a machine learning model capable of deciphering cursive handwriting. The initial goal was to create an AI that could read and transcribe handwritten notes efficiently. However, despite my best efforts and expertise, the intricacies of cursive writing posed significant challenges, and the desired results remained elusive. I did learn a lot about Tenserflow and using image processing libraries like OpenCV and Pillow, I learned to preprocess raw images effectively. Deep learning frameworks such as TensorFlow enabled me to implement Convolutional Neural Networks (CNNs), pivotal for capturing spatial features in images. I learned about data augmentation, label encoding techniques and optimization algorithms which will help me in the future as I come back to tackle this problem.
 
